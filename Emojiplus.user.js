@@ -20,7 +20,7 @@ dropdownCSS = GM_getResourceText('dropdownCSS');
 GM_addStyle(dropdownCSS);
 
 var emojis;
-$.getJSON("https://github.com/MrDarkhf/Emojiplus/blob/master/emotes.json", $.getJSON(""), function(data) {
+$.getJSON("https://raw.githubusercontent.com/MrDarkhf/Emojiplus/master/emotes.json", $.getJSON(""), function(data) {
     emojis = data;
 });
 
