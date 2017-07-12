@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Emoji+
 // @namespace       https://github.com/MrDarkhf/Emojiplus/
-// @updateURL       https://raw.githubusercontent.com/MrDarkhf/Emojiplus/blob/master/Emoji+.js
+// @updateURL       https://raw.githubusercontent.com/MrDarkhf/Emojiplus/blob/master/Emojiplus.user.js
 // @version         1.0.0
 // @description     A simple Emoji support script.
 // @author          MrDark
