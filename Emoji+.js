@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name            Emoji+
-// @namespace       https://github.com/MrDarkhf/HF/Emoji+
-// @updateURL       https://raw.githubusercontent.com/MrDarkhf/HF/Emoji+/master/Emoji+.js
+// @namespace       https://github.com/MrDarkhf/Emojiplus/
+// @updateURL       https://raw.githubusercontent.com/MrDarkhf/Emojiplus/blob/master/Emoji+.js
 // @version         1.0.0
 // @description     A simple Emoji support script.
 // @author          MrDark
-// @resource        dropdownCSS https://raw.githubusercontent.com/MrDarkhf/HF/Emoji+/master/dropdown.css
+// @resource        dropdownCSS https://raw.githubusercontent.com/MrDarkhf/Emojiplus/blob/master/dropdown.css
 // @require         https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js
 // @require         https://cdnjs.cloudflare.com/ajax/libs/jquery.textcomplete/1.8.0/jquery.textcomplete.min.js
 // @match           https://hackforums.net/editpost.php*
@@ -20,7 +20,7 @@ dropdownCSS = GM_getResourceText('dropdownCSS');
 GM_addStyle(dropdownCSS);
 
 var emojis;
-$.getJSON("", $.getJSON(""), function(data) {
+$.getJSON("https://github.com/MrDarkhf/Emojiplus/blob/master/emotes.json", $.getJSON(""), function(data) {
     emojis = data;
 });
 
