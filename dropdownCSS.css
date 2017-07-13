@@ -1,5 +1,5 @@
 .textcomplete-dropdown {
-    background-color: #fff;
+    background-color: #fff !important;
 
     min-width: 160px;
     margin: 2px 0px 0px;
@@ -25,7 +25,7 @@
 .textcomplete-dropdown li:hover,
 .textcomplete-dropdown .active {
     color: #ffffff;
-    background-color: #264250;
+    background-color: #264250 !important;;
 }
 
 .textcomplete-dropdown {
