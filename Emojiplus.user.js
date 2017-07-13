@@ -5,7 +5,7 @@
 // @version         1.0.1
 // @description     A simple Emoji support script.
 // @author          MrDark
-// @resource        dropdownCSS https://github.com/MrDarkhf/Emojiplus/blob/master/dropdownCSS.css
+// @resource        dropdownCSS https://raw.githubusercontent.com/MrDarkhf/Emojiplus/master/dropdownCSS.css
 // @require         https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js
 // @require         https://cdnjs.cloudflare.com/ajax/libs/jquery.textcomplete/1.8.0/jquery.textcomplete.min.js
 // @match           https://hackforums.net/editpost.php*
