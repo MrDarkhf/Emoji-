@@ -12,6 +12,7 @@
 // @match           https://hackforums.net/showthread.php*
 // @match           https://hackforums.net/newthread.php*
 // @match           https://hackforums.net/newreply.php*
+// @match           https://hackforums.net/private.php*
 // @grant           GM_getResourceText
 // @grant           GM_addStyle
 // ==/UserScript==
