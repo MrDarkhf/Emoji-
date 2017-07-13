@@ -2,7 +2,7 @@
 // @name            Emoji+
 // @namespace       https://github.com/MrDarkhf/Emojiplus/
 // @updateURL       https://raw.githubusercontent.com/MrDarkhf/Emojiplus/master/Emojiplus.user.js
-// @version         1.0.0
+// @version         1.0.1
 // @description     A simple Emoji support script.
 // @author          MrDark
 // @resource        dropdownCSS https://github.com/MrDarkhf/Emojiplus/blob/master/dropdownCSS.css
